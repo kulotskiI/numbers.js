@@ -1,0 +1,12 @@
+let firstFavNumber1= 19;
+let secondFavNumber2 = 24;
+let addition = firstFavNumber1 + secondFavNumber2;
+let subtraction = firstFavNumber1 - secondFavNumber2;
+let multiplication = firstFavNumber1 * secondFavNumber2;
+let division = firstFavNumber1 / secondFavNumber2;
+let exponentiation = firstFavNumber1 ** secondFavNumber2;
+console.log('addition:', addition);
+console.log('subtraction:', subtraction);
+console.log('multiplication:', multiplication);
+console.log('division:', division);
+console.log('exponentiation:', exponentiation);
